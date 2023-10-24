@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:singleton/controllers/usuario_controller.dart';
 import 'package:singleton/models/usuario.dart';
-import 'package:singleton/pages/pagina2_page.dart';
 
 class Pagina1Page extends StatelessWidget {
   @override
